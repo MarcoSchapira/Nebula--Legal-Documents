@@ -6,7 +6,7 @@
 
 ## 1. Introduction
 
-Thank you for using our app (Nebula Quant), a stock market paper trading simulator and backtesting tool.  
+Thank you for using our app (Stratify), a stock market paper trading simulator and backtesting tool.  
 We are committed to protecting your privacy and handling your information responsibly.  
 By using the App, you agree to the terms described in this Privacy Policy.
 
@@ -103,7 +103,7 @@ Depending on your location, you may have rights under applicable privacy laws, i
 - Requesting correction of inaccurate data
 
 For any privacy-related requests, please contact us at:  
-**Email:** learnnebulabacktesting@gmail.com
+**Email:** stratify.help@gmail.com
 
 ---
 
@@ -115,6 +115,6 @@ The updated policy will be posted within the App and on our website, and the “
 
 ## 12. Contact Us
 For questions about this Privacy Policy, contact us at:  
-**Email:** learnnebulabacktesting@gmail.com
+**Email:** stratify.help@gmail.com
 
 ---
