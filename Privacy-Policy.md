@@ -17,8 +17,7 @@ By using the App, you agree to the terms described in this Privacy Policy.
 ### A. Personal Information (Required for Account Creation)
 We collect the following information when you create an account:
 - Name
-- Email Address
-- Password (encrypted via Firebase Authentication)
+- Email Address (encrypted via Firebase Authentication)
 
 We do **not** collect sensitive financial details such as bank accounts or payment card information.
 
@@ -50,7 +49,7 @@ We do **not** sell, rent, or trade your personal information.
 ---
 
 ## 4. Data Storage and Security
-- Account data (name, email, encrypted password) is stored securely using Firebase Authentication.  
+- Account data (name, email) is stored securely using Firebase Authentication.  
 - Feature analytics data is collected by Firebase Analytics in an aggregated, anonymous form.  
 - Portfolio and trading data are stored locally on your device and never uploaded to external servers.  
 
