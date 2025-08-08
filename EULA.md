@@ -1,15 +1,20 @@
 # End User License Agreement (EULA)
 
 **Effective Date:** July 30, 2025  
-**App Name:** Nebula Quant  
+**App Name:** Stratify 
 **Developer:** Marco Schapira, Justen Chartrand, Aleksandar (Sasha) Mihajlovski
 
 ---
 
 ## 1. Introduction
 
-This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "you") and the developers of Nebula Quant ("we," "our," or "us"), regarding your use of the Nebula Quant mobile application (the "App").  
+This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "you") and the developers of  Stratify ("we," "our," or "us"), regarding your use of the Stratify mobile application (the "App").
+
 By downloading, installing, or using the App, you agree to be bound by this Agreement. If you do not agree to these terms, do not install or use the App.
+
+This App is intended for users who are at least **13 years old**. By using the App, you confirm that you meet this age requirement.
+
+Certain limited App Clip experiences may be available as previews of the full App. These are also subject to this Agreement.
 
 ---
 
@@ -33,6 +38,8 @@ This includes, but is not limited to:
 - Selling or licensing the App or any derivative work based on it;
 - Redistributing the App, in whole or in part, for profit;
 - Using the App’s code, algorithms, or data outputs as part of a competing product or service.
+
+This also includes using the App’s output, data, or analytics in any **commercial trading activity, paid service, or advisory product**.
 
 Any unauthorized commercial use or resale of the App is strictly prohibited and may result in immediate termination of your license and potential legal action.
 
@@ -61,6 +68,8 @@ For details about how we handle your personal information, please review our [Pr
 The App is for **educational and simulation purposes only** and does not provide financial, investment, or trading advice.  
 No feature, result, or signal within the App guarantees any specific financial outcome.  
 All trading decisions made based on simulated data, strategy backtesting, or generated signals are entirely at your own risk.
+
+This App is not a trading platform, brokerage service, or financial advisor and is not intended for real-world investment decisions.
 
 ---
 
@@ -157,6 +166,6 @@ Any disputes shall be resolved exclusively in the courts of those jurisdictions.
 ## 18. Contact
 
 For questions regarding this Agreement, contact us at:  
-**Email:** learnnebulabacktesting@gmail.com
+**Email:** stratify.help@gmail.com
 
 ---
